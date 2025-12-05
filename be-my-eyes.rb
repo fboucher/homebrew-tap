@@ -1,5 +1,5 @@
 class BeMyEyes < Formula
-  desc "A Terminal User Interface (TUI) for analyzing/ summarizing/ questioning / searching into videos using AI"
+  desc "Terminal UI to analyze and query videos with AI"
   homepage "https://github.com/fboucher/be-my-eyes"
   version "0.1.15"
   license "MIT"
