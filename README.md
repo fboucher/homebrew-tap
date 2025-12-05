@@ -1,3 +1,5 @@
+[![brew test-bot](https://github.com/fboucher/homebrew-tap/actions/workflows/tests.yml/badge.svg)](https://github.com/fboucher/homebrew-tap/actions/workflows/tests.yml)
+
 # Fboucher Tap
 
 ## How do I install these formulae?
